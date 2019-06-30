@@ -1,0 +1,2 @@
+
+	.incbin "sound\h.dmc"
